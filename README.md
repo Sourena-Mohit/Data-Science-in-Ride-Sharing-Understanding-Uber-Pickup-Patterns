@@ -69,11 +69,7 @@ The dataset contains information about **weather conditions, locations, and pick
    ```bash
    cd Data-Science-in-Ride-Sharing-Understanding-Uber-Pickup-Patterns
    ```
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open and run the Jupyter Notebook:
+3. Open and run the Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
